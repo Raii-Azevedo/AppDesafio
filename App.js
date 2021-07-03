@@ -4,12 +4,12 @@ import {
   Text,
   StyleSheet,
   Switch,
-  Picker,
   TextInput,
   TouchableOpacity
   } from 'react-native';
 
   import Slider from '@react-native-community/slider';
+  import Picker from '@react-native-picker/picker';
 
 export default class App extends Component{
 
